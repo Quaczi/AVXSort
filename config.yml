@@ -1,0 +1,28 @@
+Programy:
+  - '.exe'
+Jar:
+  - '.jar'
+Audio:
+  - '.mp3'
+  - '.wav'
+  - '.aac'
+Wideo:
+  - '.mp4'
+  - '.flv'
+  - '.wmv'
+  - '.avi'
+Zip:
+  - '.zip'
+  - '.rar'
+  - '.tar'
+  - '.gz'
+  - '.7z'
+Obrazy:
+  - '.jpg'
+  - '.png'
+  - '.img'
+  - '.jpeg'
+  - '.gif'
+  - '.bmp'
+  - '.ico'
+  - '.jfif'
